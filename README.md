@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm a 16 year old Cyber Security Analyst and Programmer with years of experience :3 You shouldn't take what I upload on here too seriously, although my projects do obviously work. I make these purely out out of fun and boredom Lol. 👋👋 hunter</h1>
+<h1 align="center">Hi there 👋 I'm a 16 year old Offensive Security Analyst and Programmer with years of experience :3 You shouldn't take what I upload on here too seriously, although my projects do obviously work. I make these purely out out of fun and boredom Lol. 👋👋 hunter</h1>
 <h3 align="center">Just a digital gangster.</h3>
 
 - 🔭 I’m currently working on **everything and nothing**
